@@ -1,37 +1,7 @@
-body {
-  font-family: Arial;
-  background: #f4f4f4;
-  text-align: center;
-}
-
-table {
+.chart {
+  margin: 30px auto;
   width: 95%;
-  margin: auto;
-  border-collapse: collapse;
   background: white;
-}
-
-th, td {
   padding: 10px;
-  border: 1px solid #ccc;
-}
-
-th {
-  background: #111;
-  color: white;
-}
-
-.up {
-  color: green;
-  font-weight: bold;
-}
-
-.down {
-  color: red;
-  font-weight: bold;
-}
-
-footer {
-  margin-top: 20px;
-  color: gray;
+  border-radius: 6px;
 }
